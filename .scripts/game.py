@@ -87,6 +87,8 @@ def check_if_done():
 
 
 def restart():
+    subprocess.call(["git", "stash", "--include-untracked"])
+    subprocess.call(["git", "stash", "drop"])
     subprocess.call(["git", "restore", "."])
     subprocess.call(["git", "reset", "origin/main"])
 
