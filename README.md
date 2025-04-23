@@ -2,7 +2,7 @@
 
 ## Get saterted
 ```
-git clone https://github.com/2000krysztof/ghost-busters.git
+git clone https://github.com/rh-ty-blog/ghost-busters.git
 ```
 
 ## How to play
