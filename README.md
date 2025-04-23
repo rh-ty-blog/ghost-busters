@@ -8,6 +8,10 @@ The goal of this excercise is to find the 4 ghosts and put them into jail.
 
 You will see a jail folder and a few folders where the ghosts could be hiding
 
+```
+    .scripts/game.py
+```
+
 You will need to use these commands:
 * cd: to navigate the files
 * ls: to see what is in the directory
